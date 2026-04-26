@@ -108,7 +108,7 @@ public double  calcConsumoMes(String cpf, String mes) {
 					return valTotal;	
 				}
 			}
-						
+			
 		} catch (Exception e) {
 			System.out.print(e.getMessage());
 		}
