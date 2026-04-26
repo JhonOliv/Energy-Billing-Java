@@ -39,6 +39,14 @@ Projeto criado para praticar conceitos essenciais de desenvolvimento backend com
 - Validação para registros duplicados
 - Tratamento para listas vazias e buscas inválidas
 
+
+## Autor
+
+Desenvolvido por **Jhonatan Silva** como projeto de estudo focado em evolução técnica com Java, Programação Orientada a Objetos e boas práticas de desenvolvimento backend.
+
+- GitHub: https://github.com/JhonOliv
+- LinkedIn: https://linkedin.com/in/jhonatanosilva
+
 ## Estrutura do Projeto
 
 ```text
@@ -48,10 +56,3 @@ src/
 ├── view
 ├── exception
 └── main
-
-## Autor
-
-Desenvolvido por **Jhonatan Silva** como projeto de estudo focado em evolução técnica com Java, Programação Orientada a Objetos e boas práticas de desenvolvimento backend.
-
-- GitHub: https://github.com/JhonOliv
-- LinkedIn: https://linkedin.com/in/jhonatanosilva
