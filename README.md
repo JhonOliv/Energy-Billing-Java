@@ -51,7 +51,7 @@ src/
 
 ## Autor
 
-Desenvolvido por **[Seu Nome]** como projeto de estudo focado em evolução técnica com Java, Programação Orientada a Objetos e boas práticas de desenvolvimento backend.
+Desenvolvido por **Jhonatan Silva** como projeto de estudo focado em evolução técnica com Java, Programação Orientada a Objetos e boas práticas de desenvolvimento backend.
 
 - GitHub: https://github.com/JhonOliv
 - LinkedIn: https://linkedin.com/in/jhonatanosilva
